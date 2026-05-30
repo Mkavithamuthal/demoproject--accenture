@@ -1,1 +1,2 @@
 welcome to accenture project
+the project will be based on the field of GEN AI and agentic tools 
